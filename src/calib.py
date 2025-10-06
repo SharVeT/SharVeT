@@ -1,3 +1,20 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: calib.py
+- A class for calibration data.
+- This code is based on the implementation of https://github.com/TUDa-HWAI/Basis_Sharing.
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 import torch
 from tqdm import tqdm
 from transformers.utils import logging
