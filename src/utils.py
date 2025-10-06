@@ -7,7 +7,7 @@ For other purposes (e.g., commercial), please contact the authors.
 
 -----------------------------------------------------
 File: utils.py
-- Utils for evaluation and computing number of basis
+- Utils for evaluation and computing number of basis.
 
 Version: 1.0
 ***********************************************************************
