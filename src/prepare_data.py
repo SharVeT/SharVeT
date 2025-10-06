@@ -1,3 +1,20 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: prepare_data.py
+- Utils for prepareing data.
+- This code is based on the implementation of https://github.com/TUDa-HWAI/Basis_Sharing.
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 from functools import partial
 from datasets import load_dataset
 from transformers import DataCollatorForLanguageModeling
