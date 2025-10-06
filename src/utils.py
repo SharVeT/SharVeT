@@ -7,7 +7,8 @@ For other purposes (e.g., commercial), please contact the authors.
 
 -----------------------------------------------------
 File: utils.py
-- Utils for evaluation and computing number of basis.
+- Utils for adaptive parameter allocation (Idea 2).
+- Utils for evaluation.
 
 Version: 1.0
 ***********************************************************************
