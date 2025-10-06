@@ -1,3 +1,20 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: prepare_data.py
+- Classes for shared structure (Idea 3).
+- This code is based on the implementation of https://github.com/TUDa-HWAI/Basis_Sharing.
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
