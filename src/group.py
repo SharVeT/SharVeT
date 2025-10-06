@@ -6,7 +6,7 @@ This software may be used only for research evaluation purposes.
 For other purposes (e.g., commercial), please contact the authors.
 
 -----------------------------------------------------
-File: prepare_data.py
+File: group.py
 - A class for shared weights.
 - This code is based on the implementation of https://github.com/TUDa-HWAI/Basis_Sharing.
 
