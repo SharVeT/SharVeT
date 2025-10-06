@@ -1,3 +1,19 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: train.py
+- A main class for training and evaluation of SharVeT.
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 import math
 from transformers import AutoTokenizer
 from transformers import set_seed
