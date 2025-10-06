@@ -1,3 +1,19 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: utils.py
+- Utils for evaluation and computing number of basis
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 import torch
 import sys
 import os
