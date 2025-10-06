@@ -1,3 +1,19 @@
+'''
+***********************************************************************
+SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression
+
+This software may be used only for research evaluation purposes.
+For other purposes (e.g., commercial), please contact the authors.
+
+-----------------------------------------------------
+File: similarity.py
+- A class for similarity-based grouping of modules (Idea 1).
+
+Version: 1.0
+***********************************************************************
+'''
+
+
 import torch
 from sklearn.cluster import SpectralClustering
 
